@@ -1,0 +1,6 @@
+{
+  "name": "스쿨플래너 D-Day | 학교 일정 & 인정칭찬 매트릭스",
+  "description": "중요도와 시급성 기반 4분면 우선순위 자동 분류, D-Day 마감 관리, 과업 올클리어 시 따뜻한 칭찬과 성취 인정을 제공하는 학교 맞춤형 일정 관리 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
